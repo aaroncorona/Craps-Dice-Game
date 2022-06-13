@@ -9,6 +9,7 @@ Crabs Game - code requirements:
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h> 
 
 // Prototypes
 int getRollResult();
