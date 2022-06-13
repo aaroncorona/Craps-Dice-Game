@@ -1,9 +1,5 @@
 /******************************************************************************
-Name: Aaron Corona
-Date: 4/26/2022
-CS50 Project #5
-
-Crabs game requirement:
+Crabs Game - code requirements:
 1) Generate random number between 2 and 12 (the first throw)
 2) Check for an initial win (7 or 11) or an initial loss (2, 3, or 12)
 3) Otherwise, the first throw becomes the target score
